@@ -1,2 +1,2 @@
 # JS-code
-Learning JS repo
+A repository to learn Javascript with personal notes
